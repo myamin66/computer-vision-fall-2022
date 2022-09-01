@@ -1,0 +1,36 @@
+Hybrid Course (Deep Learning + Tradational CV algrothims)
+	- features , filter (distinct details in image)
+	- colors ar gray level
+	- background and foreground separate = segmentation
+	- dont reinvent the wheel
+	- cv researcher, dr mubarak shah, shikarpur, senior in uinversity of california
+
+	- virtual tour
+	- large scales images into 3d objects
+	- avtar movie	
+
+	- DIP (img input, image output)either it will be more brightness, enhance
+	- CV (img input, information or features output)
+
+Fields of CV
+	- 3d processes
+	- morphology: operations which reslut in zero or 1
+	- gray levels range between (0-255) we convert it into 0-1
+	- google search by image work by converting images into features, then rgb historgram, then similar images
+
+CV Market:
+	- Snapchat
+Object characterization and classification:
+	- anamoly: can be normal or abnormal
+Event or Activites recognition:
+	- finding abnormal action and their activites and their results
+
+Object Surveillance, wide range surveillance
+
+Our limitation :
+	- we focus on one thing or person at a time but machine dont have this limitation
+Identification or Re-Identification Problem:
+	- first distinct objects, then overlap and then distinct and computer unable to detect
+	- person passes through camera then bridge and then camera unable to recognize it
+	- mental models difference problem
+	- research problems
