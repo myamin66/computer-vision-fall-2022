@@ -1,0 +1,59 @@
+Two ways to perform work
+	- Scientific approach: solve problem by good methods, optimize, see all aspects, we can fine-tune, Computer Vision
+	- Engineer's Approach: just work should be done, how its working does'nt matter, Black-Box Approach, Deep learning. Only expectation
+
+
+3d Technologies:  
+	constructions of picture of child before even birth. application of cv in medical
+	Allignment of images is also CV
+
+Avtar also CV. now a days in metavers
+	if avatar works samle like human, and you want to have all emotions.
+
+Detect in CV : 
+	find and localize
+
+C.V vs human Vision: 
+	multipe MRI, brain tumer, multiple men count, 
+	in some tasks human good: Reidentification, Recognition: computer too literal, Airplane examplel
+
+Intersection over union: 
+	metric for checkig performance
+
+Visual Perception: 
+	Things near to us are large, small when far
+	Process of acquiring knowledge about environmental objects and events by extracting info from the light they emit or reflect
+	Children seeing all things, but dont understand. your grandmother, father. we are telling visual cues as well as language
+
+	The focus of our eyes is fixed, we dont see other things
+	
+can people 'see' without being aware of what they see?
+
+Why do objects appeared colors?
+	Receptors in eyes: Rods and Cones : Detect colors
+6-7 M Cones, 1 M Rods
+feature extraction, object detection, recognition
+
+same picture for human and C.V
+	we can extract information and develop story
+
+Rods detect grays-scale and cones detect color
+
+digital image: a 2d matrix, where each object is representing gray level
+pixel: a single element from image
+
+Sampling and quantiztion
+	8-bit qunatization: each element represting by 8 bits xxxx xxxx (range can be 0-255)
+	2-bit quantization: black or white
+
+more color in frog: more poisionic, the predetor will check first before eating
+green color in trees because of photosythensis
+
+mental capacity + training + interest : developing distinction 
+
+Panorama picture, stitching, Computer Vision 
+
+German Aerospace
+
+Zero mean guassian noise
+rate of change of gray levels (gray levels from white to black)
