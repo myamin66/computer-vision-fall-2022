@@ -57,3 +57,5 @@ German Aerospace
 
 Zero mean guassian noise
 rate of change of gray levels (gray levels from white to black)
+
+Convolution vs correlation difference (180 degree flipping the image)
