@@ -1,0 +1,79 @@
+We were studying filtering
+Gradient & Rate of Change is same
+Magnitude & 
+Direction of Gradient is very important as edge can be either vertically or horizently
+
+Convolution is associative	F*(G*I)= (F*G)*I => 2 kernals and image F,G = filters, l.h.s is good
+
+R.O.I = Region of Interest, Weigheted mean is good for ROI. 
+pixels around the ROI may also be same, thats why we take weighted mean
+
+Gaussian Kernel: can do smoothing
+	Near elements have high weights and vice versa
+	g(x) = e^(-x^2/2o2)
+When standard deviation infinte then the gaussian filter becomes mean
+When standard deviation is zero or small value, then it a line
+One by one kernel is nothing
+
+we can control value using increasing or decreasing gaussian value and the filter will be same.
+it has increased reusability
+gaussian is smooth function
+transform of gaussian is also a gaussain
+
+in frequency domain, filters applied by mulitpying image and gaussian filter
+
+experiemental evaluation, emperical evaluation
+
+inherent filters in our eyes
+	like gaussian filter
+filters 
+	edge dectioning filter
+	motion detect filter
+	system works by collaboration of filters
+smooth cause info loss. sometimes we reduce info loss
+smoothing can be done by average filter
+we want to do smoothing, but not information loss
+guassian is compuationaly very expensive. b/c we have to multiply eaxch filter with floating point. hectic
+
+What is Edge: 
+	Abrupt change in color intensity or gray levels
+	change in the information of foreground and background
+
+how to find edge
+	first select inner or outer
+
+algrothim to find outer edges and remove inner images
+see = samajh kar kaam karna
+
+how to detect discountinuties
+	find gradient, 	
+ramp has no ege
+larger the noise, stronger the response
+
+how to remove noise: by smoothing using gaussian filter
+so first apply gaussian filter to remove noise and then you can detect the edge
+we can do this in single steps instead of two, first merge filter and then apply edge detection
+when high noise, changes high and abrupt changes clearly visible
+
+salt and pepper noise: 
+salt = white color, pepper : black color
+salt : random pixels value turned to zero
+pepper: random pixel's value turned to 255
+gradient magnitude: absolute
+
+Prewitt Edge Detector:
+
+by increasing the Threeshold value, edges detection increased
+smoothing filter increase, noise decrease
+means by controling smoothing detection, detection of egdes can be controlled
+
+Prewitt and Sobel edge detector difference:
+	Prewitt, 2 images in result (edges in x, edges in y) and then combine, filter should be square so it should have anchor point (prewitt two steps, smoothing + blurring)
+	Sobel Edge Detector:
+	Smoothing + Blurring in single step. very less computation. less smoothing becasue filter is not much capable
+
+Marr Hildrenth Edge Detector (NOBLE Laureate)
+
+Previous filters are detecxting edges on either less noise or high noise or color change but in reality its difficult
+
+Laplacia	
