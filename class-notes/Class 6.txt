@@ -1,0 +1,25 @@
+Outlier rejection: removing outliers. diff techniques, rotation
+
+Laplacian of Gaussian, Difference of Gaussian (LoG, DoG)
+
+Trace of Hassian matrix/ Determinant
+
+Shitomassi, outlier rejector performance metric (focus either computation or high outliers removal)
+
+histogram representation is good because we can match (robust representation)
+
+original representation may be ambiguous: e.g half black half white
+
+Gradient oriented Histogram: GOH
+
+principle components in reality: 360 degree, david loe made 36 bins
+
+low number of descriptor: low chances 
+
+we want to match descriptions from one image to other
+
+0--------------------35 (information of bins), four 
+
+features after blob detection
+
+flat service already removed, we found interest points
