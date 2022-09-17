@@ -23,3 +23,30 @@ we want to match descriptions from one image to other
 features after blob detection
 
 flat service already removed, we found interest points
+
+
+simplest matching approach: sabk sath match karien
+
+medium = spread of gaussian 
+
+best  = emperical evaluation (0.4) value of sigma
+
+SIFT and harris corner detector, both provide points at the end
+
+how to make sift features rotation invarient: by matching bins information
+
+Description matching not pixel wiase matching
+
+best description is that, which is not changing
+
+deep learning and computer vision features different : cv learning process is very different
+
+google image search works by finding the features of your given image and matches it with features of other images. these features are not deep learning features;
+
+
+
+
+Hough Transform
+
+
+
