@@ -1,0 +1,12 @@
+Quiz
+
+1) how correlation and SSD can be used to achieve the same thing? Discuss the mathematical equilance as well.
+
+
+2) Discuss the working algorithm of Harris Corner Detector. also decribe the mechnanism of outlier removal.
+
+
+
+	
+
+
