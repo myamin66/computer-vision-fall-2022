@@ -1,0 +1,8 @@
+take a picture
+find sift features
+match with realtime picture
+
+opencv python homography sample: youtube
+
+featurehomogropy.py
+
