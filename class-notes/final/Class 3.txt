@@ -1,0 +1,10 @@
+Region based object detection: 2 step process, region detection, class
+
+single step object detection: yolo
+
+sliding window: accurate but very slow because of brute force algortihm
+grid having mid point will have object
+
+for every class anchor box is made
+
+iou = intersection over uinon
