@@ -1,0 +1,3 @@
+in instance segmentation, encoder decoder network is used 
+becasue we cannot get full size image as output in fully
+connected neural network as in fcnn size is reduced towards output. so there is only class as string as output.
