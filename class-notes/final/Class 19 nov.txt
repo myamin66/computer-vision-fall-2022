@@ -1,3 +1,7 @@
 in instance segmentation, encoder decoder network is used 
 becasue we cannot get full size image as output in fully
 connected neural network as in fcnn size is reduced towards output. so there is only class as string as output.
+
+localization: usually single object + classification.
+detection: localization+classification: mostly more than one objects and drawing bounding boxes are them. extra space can be there
+segmentation: exact boundries outside the object. no extra space
