@@ -1,0 +1,16 @@
+Quiz on Thursday
+topics included: 
+Object detection, single shot, multi(region based)
+ssd, yolo,
+fast, fasterCNN
+Image segmentation
+
+---------------------------
+---------------------------
+Segmentation: 
+semantic:  region ko classes mein divide karte hn
+putting segmentation mask on classes
+instance: individual instances, 
+panoptic: 
+
+
