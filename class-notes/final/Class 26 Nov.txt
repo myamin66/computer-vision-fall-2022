@@ -14,3 +14,4 @@ instance: individual instances,
 panoptic: 
 
 
+semgentation mask: output mein different regions bane hotay hn, usko segmentation mask kehte hn
