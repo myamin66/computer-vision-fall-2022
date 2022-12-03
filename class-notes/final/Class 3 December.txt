@@ -1,0 +1,11 @@
+evaluation metrics
+
+in object detection, accuracy means how close bounding boxes are being drawn to the actual objects.
+
+1) Frames per seconds(fps)
+	how many frames an algorithm process in a second.
+single shot algo are faster, but accuray is low as compared to region based algorithm
+
+2) MAP mean average precision
+3) iou: intersection over union
+	it evaluates overlap between two bounding boxes(B_ground_truth, B_predicted).
