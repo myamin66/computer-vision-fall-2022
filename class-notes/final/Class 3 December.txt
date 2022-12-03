@@ -9,3 +9,17 @@ single shot algo are faster, but accuray is low as compared to region based algo
 2) MAP mean average precision
 3) iou: intersection over union
 	it evaluates overlap between two bounding boxes(B_ground_truth, B_predicted).
+	if iou is larger, more overlap, more accuracy
+	standard value for iou is 0.5
+4) Precision Recall Curve (PR curve)
+	mostly precision and recall are inversally proportional
+	area under the curve (AUC)
+
+-----------------------------
+next topic
+Deep learning pipelines
+-----------------------------
+
+1) define and prepare problem
+
+garbage in, garbage out (if not clean data given to the model, result will be garbage)
