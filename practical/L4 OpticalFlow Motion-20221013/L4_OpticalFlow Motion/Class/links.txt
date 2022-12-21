@@ -1,0 +1,11 @@
+Native tutorial
+https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html
+
+Optical-Flow with with original image
+https://github.com/IRailean/Dense-Optical-Flow
+
+Simple Motion detection
+https://www.ccoderun.ca/programming/doxygen/opencv/tutorial_background_subtraction.html
+[Example]
+https://www.youtube.com/watch?v=O3b8lVF93jU
+https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/

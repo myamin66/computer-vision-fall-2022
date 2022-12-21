@@ -1,0 +1,2 @@
+https://learnopencv.com/histogram-of-oriented-gradients/
+https://debuggercafe.com/image-recognition-using-histogram-of-oriented-gradients-hog-descriptor/

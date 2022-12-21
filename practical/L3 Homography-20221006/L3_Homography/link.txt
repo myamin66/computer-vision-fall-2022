@@ -1,0 +1,16 @@
+Intro:
+https://learnopencv.com/homography-examples-using-opencv-python-c/
+
+Object Tracking with polygons:
+https://www.geeksforgeeks.org/python-opencv-object-tracking-using-homography/
+
+Image Alignment using feature matching:
+https://learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
+
+Percpective Transform in action:
+https://www.youtube.com/watch?v=j_EDFd9RkqE
+https://github.com/dbloisi/homography-computation
+
+OpenCV's code:
+https://www.youtube.com/watch?v=FirtmYcC0Vc
+https://github.com/opencv/opencv/blob/master/samples/python/feature_homography.py
